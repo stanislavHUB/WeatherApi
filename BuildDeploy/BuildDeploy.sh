@@ -4,8 +4,8 @@
 export DOCKER_BUILDKIT=1
 docker build -t weather/ubuntu .
 #docker network create clinic
-#Create a DataBase container
 
+#Create a WeatherApi container
 docker stop db
 docker rmi -f weather/api
 cd ../WeatherProject
