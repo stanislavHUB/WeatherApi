@@ -1,5 +1,5 @@
 
-[{_TOC_}]
+[[_TOC_]]
 
 # BooksStore Project
 
