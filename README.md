@@ -13,7 +13,7 @@
 
 
 ---
-## 1. <a name="install">Installation and Setup</a>
+# 1. Installation and Setup
 
 To get started with the BooksStore project, follow these steps:
 1. Navigate to your working directory:
@@ -41,7 +41,7 @@ To get started with the BooksStore project, follow these steps:
 > Ensure you modify the PostgreSQL **user** and **password** in the project's configuration, or create a new user with appropriate credentials (e.g., user: **root**, password: **root**) as needed.
 
 ---
-## 2. <a name="technologies">Technologies and Frameworks</a>
+# 2. Technologies and Frameworks
 **The BooksStore project utilizes a variety of technologies and frameworks, including:**
 -    AngularJS
 -    Redis
@@ -64,7 +64,7 @@ To get started with the BooksStore project, follow these steps:
 -    Google Books API
 -    Open Exchange Rates API
 ---
-## 3. <a name="aboutProject">About the Project</a>
+# 3. About the Project
 
 **BooksStore offers a range of features for managing and exploring your books, including:**
     
