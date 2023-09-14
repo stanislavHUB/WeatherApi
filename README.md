@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 # BooksStore Project
 
     Welcome to the BooksStore project! This Java-based web application is designed to provide a comprehensive
@@ -7,7 +9,7 @@
 2. [Technologies and Frameworks](#technologies)
 3. [About the Project](#aboutProject)
    
-[[_TOC_]]
+
 
 ---
 ## 1. <a name="install">Installation and Setup</a>
