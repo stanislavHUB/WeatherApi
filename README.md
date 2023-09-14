@@ -6,6 +6,8 @@
 1. [Installation and Setup](#install)
 2. [Technologies and Frameworks](#technologies)
 3. [About the Project](#aboutProject)
+   
+[[_TOC_]]
 
 ---
 ## 1. <a name="install">Installation and Setup</a>
